@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BuscandoMaximo/BuscandoMaximo.iml" filepath="$PROJECT_DIR$/BuscandoMaximo/BuscandoMaximo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capitulo6.iml" filepath="$PROJECT_DIR$/Capitulo6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClassMath/ClassMath.iml" filepath="$PROJECT_DIR$/ClassMath/ClassMath.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Craps/Craps.iml" filepath="$PROJECT_DIR$/Craps/Craps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DibujarCaraSonriente/DibujarCaraSonriente.iml" filepath="$PROJECT_DIR$/DibujarCaraSonriente/DibujarCaraSonriente.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EnterosAleatorio/EnterosAleatorio.iml" filepath="$PROJECT_DIR$/EnterosAleatorio/EnterosAleatorio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SobreCargarMetodo/SobreCargarMetodo.iml" filepath="$PROJECT_DIR$/SobreCargarMetodo/SobreCargarMetodo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TirarDados/TirarDados.iml" filepath="$PROJECT_DIR$/TirarDados/TirarDados.iml" />
+    </modules>
+  </component>
+</project>

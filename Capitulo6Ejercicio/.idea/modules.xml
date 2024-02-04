@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AreaCirculo/AreaCirculo.iml" filepath="$PROJECT_DIR$/AreaCirculo/AreaCirculo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinarioOctalHexadecimal/BinarioOctalHexadecimal.iml" filepath="$PROJECT_DIR$/BinarioOctalHexadecimal/BinarioOctalHexadecimal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalculoHipotenusa/CalculoHipotenusa.iml" filepath="$PROJECT_DIR$/CalculoHipotenusa/CalculoHipotenusa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capitulo6Ejercicio.iml" filepath="$PROJECT_DIR$/Capitulo6Ejercicio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CargoEstacionamiento/CargoEstacionamiento.iml" filepath="$PROJECT_DIR$/CargoEstacionamiento/CargoEstacionamiento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ContinuacionMath/ContinuacionMath.iml" filepath="$PROJECT_DIR$/ContinuacionMath/ContinuacionMath.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConversionTemperatura/ConversionTemperatura.iml" filepath="$PROJECT_DIR$/ConversionTemperatura/ConversionTemperatura.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Craps2/Craps2.iml" filepath="$PROJECT_DIR$/Craps2/Craps2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cuadrado/Cuadrado.iml" filepath="$PROJECT_DIR$/Cuadrado/Cuadrado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DistanciaPuntos/DistanciaPuntos.iml" filepath="$PROJECT_DIR$/DistanciaPuntos/DistanciaPuntos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EnteroAleatorio/EnteroAleatorio.iml" filepath="$PROJECT_DIR$/EnteroAleatorio/EnteroAleatorio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exponentacion/Exponentacion.iml" filepath="$PROJECT_DIR$/Exponentacion/Exponentacion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LanzamientoMonedas/LanzamientoMonedas.iml" filepath="$PROJECT_DIR$/LanzamientoMonedas/LanzamientoMonedas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MCD/MCD.iml" filepath="$PROJECT_DIR$/MCD/MCD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Math/Math.iml" filepath="$PROJECT_DIR$/Math/Math.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Minimo/Minimo.iml" filepath="$PROJECT_DIR$/Minimo/Minimo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MostrarDigito/MostrarDigito.iml" filepath="$PROJECT_DIR$/MostrarDigito/MostrarDigito.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Multiplo/Multiplo.iml" filepath="$PROJECT_DIR$/Multiplo/Multiplo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NumeroPerfecto/NumeroPerfecto.iml" filepath="$PROJECT_DIR$/NumeroPerfecto/NumeroPerfecto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NumeroPrimo/NumeroPrimo.iml" filepath="$PROJECT_DIR$/NumeroPrimo/NumeroPrimo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NumeroRedondeado/NumeroRedondeado.iml" filepath="$PROJECT_DIR$/NumeroRedondeado/NumeroRedondeado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ParImpar/ParImpar.iml" filepath="$PROJECT_DIR$/ParImpar/ParImpar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PuntoCalidad/PuntoCalidad.iml" filepath="$PROJECT_DIR$/PuntoCalidad/PuntoCalidad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SepararDigito/SepararDigito.iml" filepath="$PROJECT_DIR$/SepararDigito/SepararDigito.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TablaConversion/TablaConversion.iml" filepath="$PROJECT_DIR$/TablaConversion/TablaConversion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VolumenEsfera/VolumenEsfera.iml" filepath="$PROJECT_DIR$/VolumenEsfera/VolumenEsfera.iml" />
+    </modules>
+  </component>
+</project>

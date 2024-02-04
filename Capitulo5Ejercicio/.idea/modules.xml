@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CalcularPI/CalcularPI.iml" filepath="$PROJECT_DIR$/CalcularPI/CalcularPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalcularVentas/CalcularVentas.iml" filepath="$PROJECT_DIR$/CalcularVentas/CalcularVentas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capitulo5Ejercicio.iml" filepath="$PROJECT_DIR$/Capitulo5Ejercicio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DoceDiasNAvidad/DoceDiasNAvidad.iml" filepath="$PROJECT_DIR$/DoceDiasNAvidad/DoceDiasNAvidad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Entero/Entero.iml" filepath="$PROJECT_DIR$/Entero/Entero.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Factoriales/Factoriales.iml" filepath="$PROJECT_DIR$/Factoriales/Factoriales.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graficos/Graficos.iml" filepath="$PROJECT_DIR$/Graficos/Graficos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InteresCompuesto/InteresCompuesto.iml" filepath="$PROJECT_DIR$/InteresCompuesto/InteresCompuesto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LEyMorgan/LEyMorgan.iml" filepath="$PROJECT_DIR$/LEyMorgan/LEyMorgan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NumeroImpares/NumeroImpares.iml" filepath="$PROJECT_DIR$/NumeroImpares/NumeroImpares.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Potencia/Potencia.iml" filepath="$PROJECT_DIR$/Potencia/Potencia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SumarImpares/SumarImpares.iml" filepath="$PROJECT_DIR$/SumarImpares/SumarImpares.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TernasPitagora/TernasPitagora.iml" filepath="$PROJECT_DIR$/TernasPitagora/TernasPitagora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ValorMenor/ValorMenor.iml" filepath="$PROJECT_DIR$/ValorMenor/ValorMenor.iml" />
+    </modules>
+  </component>
+</project>

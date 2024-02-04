@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Capitulo8Ejercicios.iml" filepath="$PROJECT_DIR$/.idea/Capitulo8Ejercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CuentaAhorro/ConjuntoEnteroEnorme/ConjuntoEnteroEnorme.iml" filepath="$PROJECT_DIR$/CuentaAhorro/ConjuntoEnteroEnorme/ConjuntoEnteroEnorme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CuentaAhorro/ConjuntoEnteros/ConjuntoEnteros.iml" filepath="$PROJECT_DIR$/CuentaAhorro/ConjuntoEnteros/ConjuntoEnteros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CuentaAhorro/CuentaAhorro.iml" filepath="$PROJECT_DIR$/CuentaAhorro/CuentaAhorro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CuentaAhorro/CuentaConBigDecimal/CuentaConBigDecimal.iml" filepath="$PROJECT_DIR$/CuentaAhorro/CuentaConBigDecimal/CuentaConBigDecimal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CuentaAhorro/Enum/Enum.iml" filepath="$PROJECT_DIR$/CuentaAhorro/Enum/Enum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CuentaAhorro/Fecha/Fecha.iml" filepath="$PROJECT_DIR$/CuentaAhorro/Fecha/Fecha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CuentaAhorro/Fecha2/Fecha2.iml" filepath="$PROJECT_DIR$/CuentaAhorro/Fecha2/Fecha2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CuentaAhorro/FechayTiempo/FechayTiempo.iml" filepath="$PROJECT_DIR$/CuentaAhorro/FechayTiempo/FechayTiempo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CuentaAhorro/NumeroComplejo/NumeroComplejo.iml" filepath="$PROJECT_DIR$/CuentaAhorro/NumeroComplejo/NumeroComplejo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CuentaAhorro/PruebaStatic/PruebaStatic.iml" filepath="$PROJECT_DIR$/CuentaAhorro/PruebaStatic/PruebaStatic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CuentaAhorro/Racional/Racional.iml" filepath="$PROJECT_DIR$/CuentaAhorro/Racional/Racional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CuentaAhorro/Tiempo2Mejora/Tiempo2Mejora.iml" filepath="$PROJECT_DIR$/CuentaAhorro/Tiempo2Mejora/Tiempo2Mejora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CuentaAhorro/TiempoTitac/TiempoTitac.iml" filepath="$PROJECT_DIR$/CuentaAhorro/TiempoTitac/TiempoTitac.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CuentaAhorro/TresEnRaya/TresEnRaya.iml" filepath="$PROJECT_DIR$/CuentaAhorro/TresEnRaya/TresEnRaya.iml" />
+    </modules>
+  </component>
+</project>

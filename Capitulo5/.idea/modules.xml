@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BreakYContinue/BreakYContinue.iml" filepath="$PROJECT_DIR$/BreakYContinue/BreakYContinue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capitulo5.iml" filepath="$PROJECT_DIR$/Capitulo5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Clasificacion/Clasificacion.iml" filepath="$PROJECT_DIR$/Clasificacion/Clasificacion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ContadorFor/ContadorFor.iml" filepath="$PROJECT_DIR$/ContadorFor/ContadorFor.iml" />
+    </modules>
+  </component>
+</project>

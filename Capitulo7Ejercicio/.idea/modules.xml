@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AnalisisCompuesto/AnalisisCompuesto.iml" filepath="$PROJECT_DIR$/AnalisisCompuesto/AnalisisCompuesto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/ArrayList/ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BarajarRepartirCartas/BarajarRepartirCartas.iml" filepath="$PROJECT_DIR$/BarajarRepartirCartas/BarajarRepartirCartas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capitulo7Ejercicio.iml" filepath="$PROJECT_DIR$/Capitulo7Ejercicio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ComisionVentas/ComisionVentas.iml" filepath="$PROJECT_DIR$/ComisionVentas/ComisionVentas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ComisionVentas2/ComisionVentas2.iml" filepath="$PROJECT_DIR$/ComisionVentas2/ComisionVentas2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CribaEratosnes/CribaEratosnes.iml" filepath="$PROJECT_DIR$/CribaEratosnes/CribaEratosnes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DosporTres/DosporTres.iml" filepath="$PROJECT_DIR$/DosporTres/DosporTres.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EliminaDuplicado/EliminaDuplicado.iml" filepath="$PROJECT_DIR$/EliminaDuplicado/EliminaDuplicado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encuenta/Encuenta.iml" filepath="$PROJECT_DIR$/Encuenta/Encuenta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fibomacci/Fibomacci.iml" filepath="$PROJECT_DIR$/Fibomacci/Fibomacci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ForEach/ForEach.iml" filepath="$PROJECT_DIR$/ForEach/ForEach.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fraccion/Fraccion.iml" filepath="$PROJECT_DIR$/Fraccion/Fraccion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LibroCalificaciones/LibroCalificaciones.iml" filepath="$PROJECT_DIR$/LibroCalificaciones/LibroCalificaciones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListaArgumentoVariable/ListaArgumentoVariable.iml" filepath="$PROJECT_DIR$/ListaArgumentoVariable/ListaArgumentoVariable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OchoReinas/OchoReinas.iml" filepath="$PROJECT_DIR$/OchoReinas/OchoReinas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operaciones/Operaciones.iml" filepath="$PROJECT_DIR$/Operaciones/Operaciones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PaseoCaballo/PaseoCaballo.iml" filepath="$PROJECT_DIR$/PaseoCaballo/PaseoCaballo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reservaciones/Reservaciones.iml" filepath="$PROJECT_DIR$/Reservaciones/Reservaciones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tabla/Tabla.iml" filepath="$PROJECT_DIR$/Tabla/Tabla.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tarea/Tarea.iml" filepath="$PROJECT_DIR$/Tarea/Tarea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TirarDado/TirarDado.iml" filepath="$PROJECT_DIR$/TirarDado/TirarDado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TortugaGrafica/TortugaGrafica.iml" filepath="$PROJECT_DIR$/TortugaGrafica/TortugaGrafica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TortugaLiebre/TortugaLiebre.iml" filepath="$PROJECT_DIR$/TortugaLiebre/TortugaLiebre.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ventas/Ventas.iml" filepath="$PROJECT_DIR$/Ventas/Ventas.iml" />
+    </modules>
+  </component>
+</project>

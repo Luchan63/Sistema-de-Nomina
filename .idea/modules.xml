@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Capitulo5/BreakYContinue/BreakYContinue.iml" filepath="$PROJECT_DIR$/Capitulo5/BreakYContinue/BreakYContinue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capitulos1-4/Bucles/Bucles.iml" filepath="$PROJECT_DIR$/Capitulos1-4/Bucles/Bucles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalculadoraIMC/CalculadoraIMC.iml" filepath="$PROJECT_DIR$/CalculadoraIMC/CalculadoraIMC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capitulos1-4/CalcularE/CalcularE.iml" filepath="$PROJECT_DIR$/Capitulos1-4/CalcularE/CalcularE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capitulo5/Capitulo5.iml" filepath="$PROJECT_DIR$/Capitulo5/Capitulo5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capitulos1-4/Capitulos1-4.iml" filepath="$PROJECT_DIR$/Capitulos1-4/Capitulos1-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capitulos1-4/CharConcatenar/CharConcatenar.iml" filepath="$PROJECT_DIR$/Capitulos1-4/CharConcatenar/CharConcatenar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capitulos1-4/ClaseInteraz/ClaseInteraz.iml" filepath="$PROJECT_DIR$/Capitulos1-4/ClaseInteraz/ClaseInteraz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capitulo5/Clasificacion/Clasificacion.iml" filepath="$PROJECT_DIR$/Capitulo5/Clasificacion/Clasificacion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capitulos1-4/CodigoErroneo/CodigoErroneo.iml" filepath="$PROJECT_DIR$/Capitulos1-4/CodigoErroneo/CodigoErroneo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capitulo5/ContadorFor/ContadorFor.iml" filepath="$PROJECT_DIR$/Capitulo5/ContadorFor/ContadorFor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capitulo8Ejercicios/CuentaAhorro/CuentaAhorro.iml" filepath="$PROJECT_DIR$/Capitulo8Ejercicios/CuentaAhorro/CuentaAhorro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capitulos1-4/EquivalenteDecimal/EquivalenteDecimal.iml" filepath="$PROJECT_DIR$/Capitulos1-4/EquivalenteDecimal/EquivalenteDecimal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capitulos1-4/Estudiante/Estudiante.iml" filepath="$PROJECT_DIR$/Capitulos1-4/Estudiante/Estudiante.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capitulos1-4/Factorial/Factorial.iml" filepath="$PROJECT_DIR$/Capitulos1-4/Factorial/Factorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capitulos1-4/FrecuenciaCardiaca/FrecuenciaCardiaca.iml" filepath="$PROJECT_DIR$/Capitulos1-4/FrecuenciaCardiaca/FrecuenciaCardiaca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capitulos1-4/Inventario/Inventario.iml" filepath="$PROJECT_DIR$/Capitulos1-4/Inventario/Inventario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capitulos1-4/JOption/JOption.iml" filepath="$PROJECT_DIR$/Capitulos1-4/JOption/JOption.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capitulos1-4/KilometroGasolina/KilometroGasolina.iml" filepath="$PROJECT_DIR$/Capitulos1-4/KilometroGasolina/KilometroGasolina.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capitulos1-4/LadosDeTriangulo/LadosDeTriangulo.iml" filepath="$PROJECT_DIR$/Capitulos1-4/LadosDeTriangulo/LadosDeTriangulo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capitulos1-4/LimiteCredito/LimiteCredito.iml" filepath="$PROJECT_DIR$/Capitulos1-4/LimiteCredito/LimiteCredito.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capitulos1-4/MenuJava/MenuJava.iml" filepath="$PROJECT_DIR$/Capitulos1-4/MenuJava/MenuJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capitulos1-4/Misterio/Misterio.iml" filepath="$PROJECT_DIR$/Capitulos1-4/Misterio/Misterio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capitulos1-4/NumeroMayor/NumeroMayor.iml" filepath="$PROJECT_DIR$/Capitulos1-4/NumeroMayor/NumeroMayor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capitulos1-4/OperadorLogico/OperadorLogico.iml" filepath="$PROJECT_DIR$/Capitulos1-4/OperadorLogico/OperadorLogico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capitulos1-4/Palindromo/Palindromo.iml" filepath="$PROJECT_DIR$/Capitulos1-4/Palindromo/Palindromo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capitulos1-4/PanelDibujo/PanelDibujo.iml" filepath="$PROJECT_DIR$/Capitulos1-4/PanelDibujo/PanelDibujo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capitulos1-4/PatronAsteriscos/PatronAsteriscos.iml" filepath="$PROJECT_DIR$/Capitulos1-4/PatronAsteriscos/PatronAsteriscos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capitulos1-4/PoliozaAuto1/PoliozaAuto1.iml" filepath="$PROJECT_DIR$/Capitulos1-4/PoliozaAuto1/PoliozaAuto1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capitulos1-4/PolizaAuto/PolizaAuto.iml" filepath="$PROJECT_DIR$/Capitulos1-4/PolizaAuto/PolizaAuto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capitulos1-4/PotenciaEntero/PotenciaEntero.iml" filepath="$PROJECT_DIR$/Capitulos1-4/PotenciaEntero/PotenciaEntero.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capitulos1-4/ProgresionGeometrica/ProgresionGeometrica.iml" filepath="$PROJECT_DIR$/Capitulos1-4/ProgresionGeometrica/ProgresionGeometrica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capitulos1-4/PromedioClase/PromedioClase.iml" filepath="$PROJECT_DIR$/Capitulos1-4/PromedioClase/PromedioClase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capitulos1-4/Proyecto/Proyecto.iml" filepath="$PROJECT_DIR$/Capitulos1-4/Proyecto/Proyecto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capitulo5/RepeticionDoWhile/RepeticionDoWhile.iml" filepath="$PROJECT_DIR$/Capitulo5/RepeticionDoWhile/RepeticionDoWhile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capitulos1-4/SalidaTabular/SalidaTabular.iml" filepath="$PROJECT_DIR$/Capitulos1-4/SalidaTabular/SalidaTabular.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capitulos1-4/Sangria/Sangria.iml" filepath="$PROJECT_DIR$/Capitulos1-4/Sangria/Sangria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capitulos1-4/SeparacionDigito/SeparacionDigito.iml" filepath="$PROJECT_DIR$/Capitulos1-4/SeparacionDigito/SeparacionDigito.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capitulos1-4/TareaVictor/TareaVictor.iml" filepath="$PROJECT_DIR$/Capitulos1-4/TareaVictor/TareaVictor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capitulo8Ejercicios/CuentaAhorro/Tiempo2Mejora/Tiempo2Mejora.iml" filepath="$PROJECT_DIR$/Capitulo8Ejercicios/CuentaAhorro/Tiempo2Mejora/Tiempo2Mejora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capitulos1-4/TriangualoRectanfulo/TriangualoRectanfulo.iml" filepath="$PROJECT_DIR$/Capitulos1-4/TriangualoRectanfulo/TriangualoRectanfulo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ideaProyect2.iml" filepath="$PROJECT_DIR$/.idea/ideaProyect2.iml" />
+    </modules>
+  </component>
+</project>

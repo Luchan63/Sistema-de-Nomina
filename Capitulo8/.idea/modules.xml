@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AccesoPaquetes/AccesoPaquetes.iml" filepath="$PROJECT_DIR$/AccesoPaquetes/AccesoPaquetes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BigDecimal/BigDecimal.iml" filepath="$PROJECT_DIR$/BigDecimal/BigDecimal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capitulo8.iml" filepath="$PROJECT_DIR$/Capitulo8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Composicion/Composicion.iml" filepath="$PROJECT_DIR$/Composicion/Composicion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EnumLibro/EnumLibro.iml" filepath="$PROJECT_DIR$/EnumLibro/EnumLibro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PanelDibujo/PanelDibujo.iml" filepath="$PROJECT_DIR$/PanelDibujo/PanelDibujo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StaticImpor/StaticImpor.iml" filepath="$PROJECT_DIR$/StaticImpor/StaticImpor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tiempo/Tiempo.iml" filepath="$PROJECT_DIR$/Tiempo/Tiempo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tiempo2/Tiempo2.iml" filepath="$PROJECT_DIR$/Tiempo2/Tiempo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VariableStatic/VariableStatic.iml" filepath="$PROJECT_DIR$/VariableStatic/VariableStatic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/This/this.iml" filepath="$PROJECT_DIR$/This/this.iml" />
+    </modules>
+  </component>
+</project>
